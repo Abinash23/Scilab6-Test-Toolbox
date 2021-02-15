@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book [
 <!--Begin Entities-->
-<!ENTITY a036040f63b091c7fcfa83e3320937aac SYSTEM "/home/rupak19/test-toolbox/test-toolbox-source/Scilab6-Test-Toolbox/help/en_US/add.xml">
-<!ENTITY a2b90af1c717a4497476b52acff07e3c3 SYSTEM "/home/rupak19/test-toolbox/test-toolbox-source/Scilab6-Test-Toolbox/help/en_US/multiply.xml">
+<!ENTITY a0a225684d54791607a614360b9171f8a SYSTEM "/home/abinash/Scilab6-Test-Toolbox/help/en_US/add.xml">
+<!ENTITY a55a91cee8ff6b546bff6a1e2b1bdbdea SYSTEM "/home/abinash/Scilab6-Test-Toolbox/help/en_US/multiply.xml">
 <!--End Entities-->
 ]>
 <book version="5.0-subset Scilab" xml:lang="en_US"
@@ -17,9 +17,9 @@
     <title>test_toolbox</title>
   </info>
 
-<part xml:id='section_a4d618299cdddf3aacd4f753dd1572c4'>
+<part xml:id='section_29f5859c7b7cec9857b2cbdf0d7eddfc'>
 <title>test_toolbox</title>
-&a036040f63b091c7fcfa83e3320937aac;
-&a2b90af1c717a4497476b52acff07e3c3;
+&a0a225684d54791607a614360b9171f8a;
+&a55a91cee8ff6b546bff6a1e2b1bdbdea;
 </part>
 </book>
