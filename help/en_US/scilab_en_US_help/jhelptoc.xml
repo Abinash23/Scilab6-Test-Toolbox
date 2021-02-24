@@ -2,9 +2,10 @@
 <!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN" "http://java.sun.com/products/javahelp/toc_1_0.dtd">
 <toc version="1.0">
 <tocitem target="index" text="test_toolbox">
-<tocitem target="section_29f5859c7b7cec9857b2cbdf0d7eddfc" text="test_toolbox">
+<tocitem target="section_dd19dc1feb19c4062ca931b4ebc33129" text="test_toolbox">
 <tocitem target="add" text="add"/>
 <tocitem target="multiply" text="multiply"/>
+<tocitem target="transpose" text="transpose"/>
 </tocitem>
 </tocitem>
 </toc>

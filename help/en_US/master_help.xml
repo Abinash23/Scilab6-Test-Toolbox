@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book [
 <!--Begin Entities-->
-<!ENTITY a0a225684d54791607a614360b9171f8a SYSTEM "/home/abinash/Scilab6-Test-Toolbox/help/en_US/add.xml">
-<!ENTITY a55a91cee8ff6b546bff6a1e2b1bdbdea SYSTEM "/home/abinash/Scilab6-Test-Toolbox/help/en_US/multiply.xml">
+<!ENTITY ad8632c536ec69f17ffe1487776641757 SYSTEM "/home/abinash/Desktop/Scilab6-Test-Toolbox/help/en_US/add.xml">
+<!ENTITY a67890eb1d28dad986bddb10306f9b459 SYSTEM "/home/abinash/Desktop/Scilab6-Test-Toolbox/help/en_US/multiply.xml">
+<!ENTITY ad818759fa854c21a420828953dcdca51 SYSTEM "/home/abinash/Desktop/Scilab6-Test-Toolbox/help/en_US/transpose.xml">
 <!--End Entities-->
 ]>
 <book version="5.0-subset Scilab" xml:lang="en_US"
@@ -17,9 +18,10 @@
     <title>test_toolbox</title>
   </info>
 
-<part xml:id='section_29f5859c7b7cec9857b2cbdf0d7eddfc'>
+<part xml:id='section_dd19dc1feb19c4062ca931b4ebc33129'>
 <title>test_toolbox</title>
-&a0a225684d54791607a614360b9171f8a;
-&a55a91cee8ff6b546bff6a1e2b1bdbdea;
+&ad8632c536ec69f17ffe1487776641757;
+&a67890eb1d28dad986bddb10306f9b459;
+&ad818759fa854c21a420828953dcdca51;
 </part>
 </book>
